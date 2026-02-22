@@ -1,3 +1,3 @@
-# Module 2 Assignment
+## Feature Update
 
-This project demonstrates Git and GitHub workflow including repository setup, branching, merging, and deployment.
+Added additional documentation and notes for the project workflow.
